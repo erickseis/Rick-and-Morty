@@ -105,8 +105,8 @@ button :hover {
 
 .ul-main {
   
-  color: wheat;
-  font-size: 10px;
+  color: #f5deb3;
+  font-size: 20px;
   margin-top: 3rem;
   display: grid;
   place-items: center;
