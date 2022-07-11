@@ -34,13 +34,18 @@ const Location = () => {
             </div>
             <div className='contenedor-hijo'>
                 <br />
+                <br /> 
+                <div className='barra-lista'>
+                <h1 className='name'> <strong>{location.name}</strong></h1>
                 <ul className='ul-main'>
-                    <li>Name: <br />  {location.name}</li>
-                    <li>Type: <br />  {location.type}</li>
-                    <li>Dimension: <br />  {location.dimension}</li>
-                    <li>Episodes: <br />  {
-                        location.residents?.length}</li>
+                
+                    <li> <strong> Type: <br />  {location.type} </strong></li>
+                    <li> <strong> Dimension: <br />  {location.dimension}</strong></li>
+                    <li> <strong> Episodes: <br />  {
+                        location.residents?.length}</strong></li>
                 </ul>
+
+                </div>
                 <div className='cards'>
                     {location.residents?.map(character => (
 
