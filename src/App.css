@@ -165,6 +165,24 @@ button :hover {
   box-shadow: 4px 4px 4px 4px #545353;
 }
 
+.Btn-container{
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+
+.Btn-Numbers{
+  display: grid;
+  width: 50px;
+  border-radius: 50%;
+  align-items: center;
+ 
+
+
+}
+
+
 
 
 @media screen and (min-width: 600px) {
