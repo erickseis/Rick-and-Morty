@@ -25,3 +25,5 @@ Este proyecto es una aplicación web construida con React JS que utiliza la API 
 
 - [Portugués](https://github.com/erickseis/Rick-and-Morty/blob/main/README.pt.md "Portugués")
 - [English](https://github.com/erickseis/Rick-and-Morty/blob/main/README.en.md "English")
+- [Espanish](https://github.com/erickseis/Rick-and-Morty/blob/main/README.md "Espanish")
+
