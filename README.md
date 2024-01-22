@@ -24,3 +24,4 @@ Este proyecto es una aplicación web construida con React JS que utiliza la API 
 - Correo electrónico: erickseislaboral@gmail.com
 
 - [Portugués](https://github.com/erickseis/Rick-and-Morty/blob/main/README.pt.md "Portugués")
+- [English](https://github.com/erickseis/Rick-and-Morty/blob/main/README.en.md "English")
